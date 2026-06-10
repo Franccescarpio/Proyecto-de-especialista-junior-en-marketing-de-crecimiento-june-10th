@@ -10,6 +10,8 @@ The first step was downloading and installing Cursor. The process was straightfo
 
 The second task involved installing the Claude Code extension within Cursor. This was the most challenging part of the process because I initially could not locate the extensions section. To solve this issue, I searched for a YouTube tutorial that guided me through the setup. Although my interface looked slightly different from the one shown in the video, after several attempts I found a link labeled "Window Editor" in the upper-right corner. Once I accessed that section, I was able to locate the extensions icon and use the search bar to install Claude Code successfully.
 
+![image alt](https://github.com/Franccescarpio/Proyecto-de-especialista-junior-en-marketing-de-crecimiento-june-10th/blob/0ed4ea607edbfeeed5b6afd2180f976799aa55e2/Captura%20de%20pantalla%202026-06-10%20144902.png)
+
 ## Step 3 ✍️
 
 After discovering where the extensions were located, installing the next required extension, Codex, became a much simpler and faster process.
